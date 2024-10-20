@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Таблетки</string>
+    <string name="btnMakeBigText">Make BIG!</string>
+    <string name="editDrugNameHint">Название лекарства</string>
+    <string name="add_text">Добавить</string>
+    <string name="edit_text">Редактировать</string>
+    <string name="text_delete">Удалить</string>
+    <string name="save_text">Сохранить</string>
+    <string name="text_taken">Принято:</string>
+    <string name="deleteLastTaking_text">Удалить посл. прием</string>
+</resources>

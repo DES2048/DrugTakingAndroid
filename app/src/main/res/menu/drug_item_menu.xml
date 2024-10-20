@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/drugItemMenuEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/edit_text" />
+    <item
+        android:id="@+id/drugItemMenuDeleteLastTaking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/deleteLastTaking_text" />
+    <item
+        android:id="@+id/drugItemMenuDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/text_delete" />
+</menu>
