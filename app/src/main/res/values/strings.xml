@@ -8,4 +8,6 @@
     <string name="save_text">Сохранить</string>
     <string name="text_taken">Принято:</string>
     <string name="deleteLastTaking_text">Удалить посл. прием</string>
+    <string name="backup_menu_text">Backup</string>
+    <string name="restore_menu_text">Restore</string>
 </resources>

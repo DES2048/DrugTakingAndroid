@@ -2,6 +2,7 @@ package yae.sampleapp.activites
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import yae.sampleapp.R
 import yae.sampleapp.activites.ui.main.MainFragment
 
 class MainActivity2 : AppCompatActivity() {

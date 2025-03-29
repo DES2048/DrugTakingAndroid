@@ -6,7 +6,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import yae.sampleapp.activites.R
+import yae.sampleapp.R
 
 class MainFragment : Fragment() {
 
